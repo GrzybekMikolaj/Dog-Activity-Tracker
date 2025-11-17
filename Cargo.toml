@@ -1,11 +1,11 @@
 [package]
 edition      = "2024"
-name         = "Dog-Activity-Tracker"
+name         = "dog-activity-tracker"
 rust-version = "1.88"
 version      = "0.1.0"
 
 [[bin]]
-name = "Dog-Activity-Tracker"
+name = "dog-activity-tracker"
 path = "./src/bin/main.rs"
 test = false
 
